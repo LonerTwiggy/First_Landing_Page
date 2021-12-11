@@ -1,0 +1,1 @@
+This is part of The Odin Project's "Foundations" course. It is a project to test what I have learned so far utilizing HTML, CSS and FLexbox to design a simple, yet stylized landing page. It will test my ability to utilize flexbox to create the page layout, as well as CSS to style the layout, and HTML to create link, buttons, images, a header and footer.
